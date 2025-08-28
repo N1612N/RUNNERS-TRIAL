@@ -1,0 +1,6 @@
+{
+  // "extension_whitelist": [],
+  "SMB_USER": "your_username",
+  "SMB_PASS": "your_password",
+  // "SMB_DOMAIN": "optional"
+}
